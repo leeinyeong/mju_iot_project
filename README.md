@@ -1,5 +1,4 @@
 # mju_iot_project
-2021년 1학기 IOT 기말프로젝트: COW MANAGER
 
 IOT 수업 프로젝트
 
