@@ -24,6 +24,8 @@ IOT 수업 프로젝트
 
 2.4 OpenAPI(openweathermap) 해당 지역의 날씨 데이터를 가져오기 위해서 openweathermap.api를 사용한다.
 
+...............
+
 최종 결과
 
 다음의 기능들을 구현
